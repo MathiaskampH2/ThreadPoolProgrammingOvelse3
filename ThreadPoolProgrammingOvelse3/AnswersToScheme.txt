@@ -1,0 +1,11 @@
+﻿1. start()  - Causes the os to change the state of the thread to "Running". basically starts the Thread.
+
+2. sleep() - Causes the Thread to "sleep" for a given amount of time before it continues
+
+3. Suspend() - Will suspend the Thread. Basically make it "pause"
+
+4. Resume() - will Resume a thread that has been suspended
+
+5. Abort() - will terminate the thread.
+
+6. Join() - if you have two threats and the last thread is joined to the first thread. The last thread will wait for the first thread to finish before til will start.
